@@ -20,41 +20,22 @@
 				<td><input type="text" name="nama" required></td>					
 			</tr>	
 			<tr>
-				<td>Merk / Type</td>
-				<td><input type="text" name="merk" required></td>					
+				<td>Lokasi</td>
+				<td><input type="text" name="lokasi" required></td>					
 			</tr>	
 			<tr>
-				<td>Warna Kendaraan</td>
-				<td><input type="text" name="warna" required></td>					
+				<td>Kordinat</td>
+				<td><input type="text" name="kordinat" required></td>					
 			</tr>	
 			<tr>
-				<td>Tahun Pembuatan</td>
-				<td><input type="number" name="tahun" required></td>					
+				<td>Keadaan</td>
+				<td><input type="text" name="keadaan" required></td>					
 			</tr>
 			<tr>
-				<td>Bahan Bakar</td>
-				<td><input type="text" name="bbm" required></td>					
+				<td>Keterangan</td>
+				<td><input type="text" name="keterangan" required></td>					
 			</tr>	
 			<tr>
-				<td>Nomor Polisi</td>
-				<td><input type="text" name="nopol" required></td>					
-			</tr>
-			<tr>
-				<td>Nomor Rangka</td>
-				<td><input type="text" name="norangka" required></td>					
-			</tr>
-			<tr>
-				<td>Nomor Mesin</td>
-				<td><input type="text" name="nomesin" required></td>					
-			</tr>
-			<tr>
-				<td>Pemilik</td>
-				<td><input type="text" name="pemilik" required></td>					
-			</tr>
-			<tr>
-				<td>Alamat Pemilik</td>
-				<td><textarea name="alamat" required></textarea></td>					
-			</tr>
 				<td></td>
 				<td><button type="submit">Simpan</button></td>					
 			</tr>				
